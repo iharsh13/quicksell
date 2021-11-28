@@ -1,3 +1,6 @@
+# BUSINESS LOGIC
+Used two states for handling counter change one for input and other for Text,
+On Every update it is maling a put request asynchronously and updating the data at the given URL.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
